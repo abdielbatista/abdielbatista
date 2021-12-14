@@ -1,5 +1,5 @@
 - 👋 Olá, meu nome é Abdiel Batista
-- 👀 Tenho interresse desenvolvimento web 
+- 👀 Tenho interresse em desenvolvimento web 
 - 🌱 Estou aprendendo JavaScript, Node.js, NestJS,
 - 💞️ Procuro colaborar com meu conhecimento 
 - 📫 Você me encontra no: https://www.linkedin.com/in/abdielbsantos/
