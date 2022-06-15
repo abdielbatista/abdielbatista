@@ -24,13 +24,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" width="52" alt="gitlab logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="52" alt="linkedin logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" width="52" alt="ubuntu logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" width="52" alt="visualstudio logo"  />
 </div>
 
 ###
 <div align="center">
-  <img src="https://profile-counter.glitch.me/abdielb/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/abdielbatista/count.svg?"  />
 </div>
 
 ###
@@ -47,7 +46,7 @@
 </div>
 
 ###
-<img href="https://raw.githubusercontent.com/abdielb/abdielb/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/abdielb/abdielbatista/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 <div align="center">
