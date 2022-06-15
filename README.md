@@ -45,13 +45,11 @@
   </a>
 </div>
 
-###
-<img href="https://raw.githubusercontent.com/abdielbatista/abdielbatista/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 <div align="center">
   <a href="https://open.spotify.com/user/gfkig0ntl43856uzr37ifd3xs">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=gfkig0ntl43856uzr37ifd3xs&count=5" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=gfkig0ntl43856uzr37ifd3xs&count=2" alt="Spotify recently played"  />
   </a>
 </div>
 
